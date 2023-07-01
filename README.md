@@ -1,4 +1,4 @@
-### Hey 👋, I'm Rick
+### Hey 👋, I'm Reza
 
 [![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
 
