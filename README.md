@@ -1,6 +1,7 @@
 ### Hey 👋, I'm Reza
 
-[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rezaadinepour)
+[![Github](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FrezaAdinepour%2FrezaAdinepour.git
+)](https://github.com/rezaadinepour)
 
 I'm a Electrical Engineering master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
