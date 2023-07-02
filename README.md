@@ -6,6 +6,17 @@
 I'm a Electrical Engineering master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
 Connect me on:
+
+<!-- Social button 1 -->
+<!-- Light Mode -->
+<a href="https://rezaadinepour.github.io#gh-light-mode-only">
+<img src="https://img.shields.io/badge/Web Page-3572A5?style=for-the-badge&logo=github&logoColor=white#gh-light-mode-only" alt="Connect with me on web page" >
+</a>
+<!-- Dark Mode -->
+<a href="https://rezaadinepour.github.io#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/Web Page-ffffff?style=for-the-badge&logo=github&logoColor=000000#gh-dark-mode-only" alt="Connect with me on web page" >
+</a>
+
 <!-- Social button 2 -->
 <!-- Light Mode -->
 <a href="https://t.me/era144#gh-light-mode-only">
