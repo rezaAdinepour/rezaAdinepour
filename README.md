@@ -25,14 +25,14 @@ Connect me on:
 <a href="https://twitter.com/intent/follow?screen_name=adinep0ur#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/follow-%40adinep0ur-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
 </a>
-&nbsp;
+&nbsp;       
 <!-- Social button 4 -->
 <!-- Light Mode -->
-<a href="https://www.linkedin.com/in/reza-adinepour#gh-light-mode-only">
+<a href="https://www.linkedin.com/in/reza-adinepour-8861401a7#gh-light-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/reza-adinepour#gh-dark-mode-only">
+<a href="https://www.linkedin.com/in/reza-adinepour-8861401a7-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
 
