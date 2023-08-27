@@ -6,29 +6,6 @@
 I'm a Computer Engineering master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
 Connect me on:
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adinep0ur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adinep0ur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reza-adinepour-8861401a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/reza-adinepour-8861401a7" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/reza.adinepour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/reza.adinepour" height="30" width="40" /></a>
-<a href="/https://rezaadinepour.github.io/" target="blank"><img align="center" src="https://rezaadinepour.github.io/" alt="https://rezaadinepour.github.io/" height="30" width="40" /></a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Social button 1 -->
 <!-- Light Mode -->
 <a href="https://rezaadinepour.github.io#gh-light-mode-only">
