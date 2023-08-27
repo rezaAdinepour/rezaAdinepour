@@ -1,5 +1,22 @@
 ### Hey 👋, I'm Reza
 
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1234" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/reza-adinepour-8861401a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/reza-adinepour-8861401a7" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
+
 [![Github](https://img.shields.io/github/followers/rezaAdinepour?label=follow&logo=github&link=https%3A%2F%2Fgithub.com%2FrezaAdinepour%2F
 )](https://github.com/rezaadinepour)
 
