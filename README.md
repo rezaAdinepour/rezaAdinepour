@@ -13,7 +13,7 @@ Connect me on:
 <a href="https://twitter.com/adinep0ur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adinep0ur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/reza-adinepour-8861401a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/reza-adinepour-8861401a7" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/reza.adinepour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/reza.adinepour" height="30" width="40" /></a>
-<a href="/https://rezaadinepour.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rezaadinepour.github.io/" height="30" width="40" /></a>
+<a href="/https://rezaadinepour.github.io/" target="blank"><img align="center" src="https://rezaadinepour.github.io/" alt="https://rezaadinepour.github.io/" height="30" width="40" /></a>
 </p>
 
 
