@@ -28,12 +28,12 @@ Connect me on:
 &nbsp;
 <!-- Social button 3 -->
 <!-- Light Mode -->
-<a href="https://X.com/intent/follow?screen_name=adinep0ur#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40adinep0ur-1DA1F2?style=for-the-badge&logo=X&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on X" >
+<a href="https://twitter.com/intent/follow?screen_name=adinep0ur#gh-light-mode-only">
+<img src="https://img.shields.io/badge/follow-%40adinep0ur-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
 </a>
 <!-- Dark Mode -->
 <a href="https://X.com/intent/follow?screen_name=adinep0ur#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40adinep0ur-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+<img src="https://img.shields.io/badge/follow-%40adinep0ur-1DA1F2?style=for-the-badge&logo=X&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on X" >
 </a>
 &nbsp;       
 <!-- Social button 4 -->
