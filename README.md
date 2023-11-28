@@ -6,7 +6,7 @@
 
 I'm a Computer Engineering master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
-Connect me on:
+🤝🏻  Connect me on:
 <!-- Social button 1 -->
 <!-- Light Mode -->
 <a href="https://rezaadinepour.github.io#gh-light-mode-only">
