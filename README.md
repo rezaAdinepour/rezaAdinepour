@@ -3,9 +3,7 @@
 [![Github](https://img.shields.io/github/followers/rezaAdinepour?label=follow&logo=github&link=https%3A%2F%2Fgithub.com%2FrezaAdinepour%2F
 )](https://github.com/rezaadinepour)
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Amiirhosseini&color=blueviolet&style=flat">
-</p>
+<img src="https://komarev.com/ghpvc/?username=rezaAdinepour&color=blueviolet&style=flat">
 
 I'm a Computer Engineering master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
