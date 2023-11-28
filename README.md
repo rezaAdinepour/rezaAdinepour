@@ -49,7 +49,8 @@ Connect me on:
 
 <br/><br/>
 
-📈 GitHub Stats:
+
+<p align="center"> 📈 GitHub Stats: </p>
 
 <!-- Light Mode -->
 <div align="center"> 
