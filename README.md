@@ -17,6 +17,8 @@ Connect me on:
 <img src="https://img.shields.io/badge/Web Page-ffffff?style=for-the-badge&logo=github&logoColor=000000#gh-dark-mode-only" alt="Connect with me on web page" >
 </a>
 
+📈 GitHub Stats:
+
 <!-- Social button 2 -->
 <!-- Light Mode -->
 <a href="https://t.me/era144#gh-light-mode-only">
