@@ -50,6 +50,51 @@ I'm a Computer Engineering master's student passionate about solving complicated
 <br/><br/>
 
 
+
+
+
+
+## Contact Me
+
+Feel free to contact me via the following links:
+
+<div align="center">
+        <a href="https://www.linkedin.com/in/adinepour">
+            <img alt="Farshid Nooshi's LinkedIn" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
+        </a>
+        <a href="mailto:r3zaadinep0ur@gmail.com">
+            <img alt="Farshid Nooshi's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
+        </a>
+        <a href="https://www.kaggle.com/nooshifarshid">
+            <img src="https://img.icons8.com/windows/512/228BE6/kaggle.png" width=32/>
+        </a>
+        <a href="https://www.instagram.com/farshidnooshi/">
+            <img alt="Farshid Nooshi's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
+        </a>
+        <a href="https://farshidnooshi.github.io/">
+            <img alt="Farshid Nooshi's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
+        </a>
+</div>
+
+<p align=center>
+<br>
+    <img src="https://komarev.com/ghpvc/?username=FarshidNooshi&style=for-the-badge&label=PROFILE+VIEWS&color=blue">
+</p>
+
+
+
+
+
+<br/><br/>
+
+
+
+
+
+
+
+
+
 <p align="center"> 📈 GitHub Stats: </p>
 
 <!-- Light Mode -->
