@@ -4,7 +4,7 @@
 )](https://github.com/rezaadinepour)
 <img src="https://komarev.com/ghpvc/?username=rezaAdinepour&color=blueviolet&style=flat">
 
-I'm a Computer Engineering master's student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
+I'm a Computer Engineering student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
 🤝🏻  Connect me on:
 <!-- Social button 1 -->
