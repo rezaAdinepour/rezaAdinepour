@@ -8,19 +8,22 @@ I'm a Computer Engineering student passionate about solving complex problems and
 ---
 
 ### 🌐 Connect with Me
+<div align="center">
 
-<a href="https://rezaadinepour.github.io">
-  <img src="https://img.shields.io/badge/Web_Page-121212?style=for-the-badge&logo=github&logoColor=white" alt="Web Page" />
+<a href="https://rezaadinepour.github.io" target="_blank">
+  <img alt="Web" src="https://img.shields.io/badge/My%20Website-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
-<a href="https://t.me/era144">
-  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<a href="https://t.me/era144" target="_blank">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://twitter.com/adinep0ur">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+<a href="https://twitter.com/adinep0ur" target="_blank">
+  <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/adinepour">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/adinepour" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</div>
 
 ---
 
