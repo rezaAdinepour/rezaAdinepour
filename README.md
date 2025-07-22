@@ -1,74 +1,61 @@
 ### Hey 👋, I'm Reza
 
-[![Github](https://img.shields.io/github/followers/rezaAdinepour?label=follow&logo=github&link=https%3A%2F%2Fgithub.com%2FrezaAdinepour%2F
-)](https://github.com/rezaadinepour)
-<img src="https://komarev.com/ghpvc/?username=rezaAdinepour&color=blueviolet&style=flat">
+[![Github](https://img.shields.io/github/followers/rezaAdinepour?label=Follow&style=social)](https://github.com/rezaAdinepour)
+![Profile Views](https://komarev.com/ghpvc/?username=rezaAdinepour&color=blueviolet&style=flat)
 
-I'm a Computer Engineering student passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
+I'm a Computer Engineering student passionate about solving complex problems and building elegant software solutions. I love 💙 contributing to open-source projects and exploring new technologies.
 
-🤝🏻  Connect me on:
-<!-- Social button 1 -->
-<!-- Light Mode -->
-<a href="https://rezaadinepour.github.io#gh-light-mode-only">
-<img src="https://img.shields.io/badge/Web Page-3572A5?style=for-the-badge&logo=github&logoColor=white#gh-light-mode-only" alt="Connect with me on web page" >
+---
+
+### 🌐 Connect with Me
+
+<a href="https://rezaadinepour.github.io">
+  <img src="https://img.shields.io/badge/Web_Page-121212?style=for-the-badge&logo=github&logoColor=white" alt="Web Page" />
 </a>
+<a href="https://t.me/era144">
+  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://twitter.com/adinep0ur">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://www.linkedin.com/in/adinepour">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+---
+
+### 🏢 Organizations
+
+Here are some GitHub organizations I’m actively involved with:
+
+- 🔗 [AUT-LCLab](https://github.com/AUT-LCLab)
+- 🔗 [CE201-AUT](https://github.com/CE201-AUT)
+- 🔗 [CE5439-AUT](https://github.com/CE5439-AUT)
+- 🔗 [M-Sc-AUT](https://github.com/M-Sc-AUT)
+- 🔗 [AdvProg2020](https://github.com/AdvProg2020)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Light Mode -->
+<a href="#gh-light-mode-only">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaadinepour&layout=compact&langs_count=10&hide_border=true" alt="Top Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=rezaadinepour&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</a>
+
 <!-- Dark Mode -->
-<a href="https://rezaadinepour.github.io#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/Web Page-ffffff?style=for-the-badge&logo=github&logoColor=000000#gh-dark-mode-only" alt="Connect with me on web page" >
+<a href="#gh-dark-mode-only">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaadinepour&layout=compact&langs_count=10&hide_border=true&theme=dark&bg_color=000000" alt="Top Languages Dark"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=rezaadinepour&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=000000" alt="GitHub Stats Dark"/>
 </a>
 
-<!-- Social button 2 -->
-<!-- Light Mode -->
-<a href="https://t.me/era144#gh-light-mode-only">
-<img src="https://img.shields.io/badge/message-%40era144-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
-</a>
-<!-- Dark Mode -->
-<a href="https://t.me/era144#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/message-%40era144-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
-</a>
-&nbsp;
-<!-- Social button 3 -->
-<!-- Light Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=adinep0ur#gh-light-mode-only">
-<img src="https://img.shields.io/badge/follow-%40adinep0ur-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
-</a>
-<!-- Dark Mode -->
-<a href="https://twitter.com/intent/follow?screen_name=adinep0ur#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/follow-%40adinep0ur-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
-</a>
-&nbsp;       
-<!-- Social button 4 -->
-<!-- Light Mode -->
-<a href="https://www.linkedin.com/in/adinepour#gh-light-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
-</a>
-<!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/adinepour#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
-</a>
-
-<br/><br/>
-
-<p align="center"> 📈 GitHub Stats: </p>
-
-<!-- Light Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rezaadinepour&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Reza's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rezaadinepour&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Reza's Github stats" />
-</a>
 </div>
 
-<!-- Dark Mode -->
-<div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rezaadinepour&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Reza's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rezaadinepour&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Reza's Github stats" />
-</a>
-</div>
+---
 
+> 🛠️ Always building. Always learning. Always sharing.
 
+_Thanks for visiting!_ 🌟
