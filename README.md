@@ -11,16 +11,16 @@ I'm a Computer Engineering student passionate about solving complex problems and
 <div align="center">
 
 <a href="https://rezaadinepour.github.io" target="_blank">
-  <img alt="Web" src="https://img.shields.io/badge/My%20Website-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img alt="Web" src="https://cdn.simpleicons.org/githubpages/0A0A0A/white" width="40" height="40" style="margin:10px;" />
 </a>
 <a href="https://t.me/era144" target="_blank">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/2CA5E0/white" width="40" height="40" style="margin:10px;" />
 </a>
 <a href="https://twitter.com/adinep0ur" target="_blank">
-  <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img alt="X" src="https://cdn.simpleicons.org/x/000000/white" width="40" height="40" style="margin:10px;" />
 </a>
 <a href="https://www.linkedin.com/in/adinepour" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5/white" width="40" height="40" style="margin:10px;" />
 </a>
 
 </div>
