@@ -12,7 +12,7 @@ I'm a Computer Engineering student passionate about solving complex problems and
 <div align="center">
 
 <a href="https://rezaadinepour.github.io" title="Website">
-  <img src="https://cdn.simpleicons.org/internetexplorer/ffffff/24292f" width="48" height="48" style="margin:12px;border-radius:50%;"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/www.svg" width="48" height="48" style="margin:12px;border-radius:50%;background:#24292f;padding:6px;"/>
 </a>
 <a href="https://rezaadinepour.github.io" title="Website">
   <img src="https://cdn.simpleicons.org/githubpages/24292f/ffffff" width="48" height="48" style="margin:12px;border-radius:50%;"/>
