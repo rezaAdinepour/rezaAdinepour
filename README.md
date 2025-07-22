@@ -11,24 +11,20 @@ I'm a Computer Engineering student passionate about solving complex problems and
 
 <div align="center">
 
-<!-- One icon per platform with light/dark theme support -->
 <a href="https://rezaadinepour.github.io" title="Website">
-  <img src="https://cdn.simpleicons.org/githubpages/000000/ffffff#gh-light-mode-only" width="48" height="48" style="margin:12px;border-radius:50%;"/>
-  <img src="https://cdn.simpleicons.org/githubpages/ffffff/0A0A0A#gh-dark-mode-only" width="48" height="48" style="margin:12px;border-radius:50%;"/>
+  <img src="https://cdn.simpleicons.org/githubpages/ffffff/24292f" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
 <a href="https://t.me/era144" title="Telegram">
   <img src="https://cdn.simpleicons.org/telegram/ffffff/2CA5E0" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
 <a href="https://twitter.com/adinep0ur" title="X (Twitter)">
-  <img src="https://cdn.simpleicons.org/x/000000/ffffff#gh-light-mode-only" width="48" height="48" style="margin:12px;border-radius:50%;"/>
-  <img src="https://cdn.simpleicons.org/x/ffffff/000000#gh-dark-mode-only" width="48" height="48" style="margin:12px;border-radius:50%;"/>
+  <img src="https://cdn.simpleicons.org/x/ffffff/1a1a1a" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
 <a href="https://www.linkedin.com/in/adinepour" title="LinkedIn">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" style="margin:12px;border-radius:50%;background-color:#0077B5;padding:4px;"/>
+  <img src="https://cdn.simpleicons.org/linkedin/ffffff/0077B5" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
 <a href="https://github.com/rezaAdinepour" title="GitHub">
-  <img src="https://cdn.simpleicons.org/github/000000/ffffff#gh-light-mode-only" width="48" height="48" style="margin:12px;border-radius:50%;"/>
-  <img src="https://cdn.simpleicons.org/github/ffffff/000000#gh-dark-mode-only" width="48" height="48" style="margin:12px;border-radius:50%;"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff/181717" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
 <a href="mailto:rezaadinepour@gmail.com" title="Email">
   <img src="https://cdn.simpleicons.org/gmail/ffffff/DD4B39" width="48" height="48" style="margin:12px;border-radius:50%;"/>
