@@ -8,19 +8,41 @@ I'm a Computer Engineering student passionate about solving complex problems and
 ---
 
 ### 🌐 Connect with Me
-<div align="center">
+
+<style>
+  .social-icons a img {
+    border-radius: 50%;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  .social-icons a:hover img {
+    transform: scale(1.15);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  }
+</style>
+
+<div align="center" class="social-icons">
 
 <a href="https://rezaadinepour.github.io" target="_blank">
-  <img alt="Web" src="https://cdn.simpleicons.org/githubpages/0A0A0A/white" width="40" height="40" style="margin:10px;" />
+  <img alt="Web" src="https://cdn.simpleicons.org/githubpages/ffffff/0A0A0A" width="48" height="48" style="margin:12px;" />
 </a>
 <a href="https://t.me/era144" target="_blank">
-  <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/2CA5E0/white" width="40" height="40" style="margin:10px;" />
+  <img alt="Telegram" src="https://cdn.simpleicons.org/telegram/ffffff/2CA5E0" width="48" height="48" style="margin:12px;" />
 </a>
 <a href="https://twitter.com/adinep0ur" target="_blank">
-  <img alt="X" src="https://cdn.simpleicons.org/x/000000/white" width="40" height="40" style="margin:10px;" />
+  <img alt="X" src="https://cdn.simpleicons.org/x/ffffff/000000" width="48" height="48" style="margin:12px;" />
 </a>
 <a href="https://www.linkedin.com/in/adinepour" target="_blank">
-  <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5/white" width="40" height="40" style="margin:10px;" />
+  <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/ffffff/0077B5" width="48" height="48" style="margin:12px;" />
+</a>
+<a href="https://github.com/rezaAdinepour" target="_blank">
+  <img alt="GitHub" src="https://cdn.simpleicons.org/github/ffffff/181717" width="48" height="48" style="margin:12px;" />
+</a>
+<a href="mailto:rezaadinepour@gmail.com" target="_blank">
+  <img alt="Email" src="https://cdn.simpleicons.org/gmail/ffffff/DD4B39" width="48" height="48" style="margin:12px;" />
+</a>
+<a href="https://instagram.com/rezaadinepour" target="_blank">
+  <img alt="Instagram" src="https://cdn.simpleicons.org/instagram/ffffff/E4405F" width="48" height="48" style="margin:12px;" />
 </a>
 
 </div>
