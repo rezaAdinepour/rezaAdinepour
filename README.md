@@ -29,29 +29,14 @@ I'm a Computer Engineering student passionate about solving complex problems and
 <a href="mailto:rezaadinepour@gmail.com" title="Email">
   <img src="https://cdn.simpleicons.org/gmail/ffffff/DD4B39" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
-<a href="https://instagram.com/rezaadinepour" title="Instagram">
+<a href="https://instagram.com/r3za_adinep0ur" title="Instagram">
   <img src="https://cdn.simpleicons.org/instagram/ffffff/E4405F" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
-<a href="https://www.youtube.com/@rezaadinepour" title="YouTube">
-  <img src="https://cdn.simpleicons.org/youtube/ffffff/FF0000" width="48" height="48" style="margin:12px;border-radius:50%;"/>
-</a>
-<a href="https://discord.com/users/your-username" title="Discord">
+<a href="https://discord.com/users/adinep0ur" title="Discord">
   <img src="https://cdn.simpleicons.org/discord/ffffff/5865F2" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
 
 </div>
-
----
-
-### 🏢 Organizations
-
-Here are some GitHub organizations I’m actively involved with:
-
-- 🔗 [AUT-LCLab](https://github.com/AUT-LCLab)
-- 🔗 [CE201-AUT](https://github.com/CE201-AUT)
-- 🔗 [CE5439-AUT](https://github.com/CE5439-AUT)
-- 🔗 [M-Sc-AUT](https://github.com/M-Sc-AUT)
-- 🔗 [AdvProg2020](https://github.com/AdvProg2020)
 
 ---
 
