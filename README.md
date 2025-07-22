@@ -24,17 +24,6 @@ I'm a Computer Engineering student passionate about solving complex problems and
 
 ---
 
-### 🏢 Organizations
-
-Here are some GitHub organizations I’m actively involved with:
-
-- 🔗 [AUT-LCLab](https://github.com/AUT-LCLab)
-- 🔗 [CE201-AUT](https://github.com/CE201-AUT)
-- 🔗 [CE5439-AUT](https://github.com/CE5439-AUT)
-- 🔗 [M-Sc-AUT](https://github.com/M-Sc-AUT)
-- 🔗 [AdvProg2020](https://github.com/AdvProg2020)
-
----
 
 ### 📊 GitHub Stats
 
