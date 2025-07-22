@@ -20,7 +20,7 @@ I'm a Computer Engineering student passionate about solving complex problems and
 <a href="https://twitter.com/adinep0ur" title="X (Twitter)">
   <img src="https://cdn.simpleicons.org/x/1a1a1a/ffffff" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
-<a href="https://www.linkedin.com/in/adinepour" title="LinkedIn">
+<a href="https://www.linkedin.com/in/adinepour/" title="LinkedIn" target="_blank">
   <img src="https://cdn.simpleicons.org/linkedin/ffffff/0077B5" width="48" height="48" style="margin:12px;border-radius:50%;"/>
 </a>
 <a href="https://github.com/rezaAdinepour" title="GitHub">
